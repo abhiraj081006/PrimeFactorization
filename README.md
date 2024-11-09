@@ -41,7 +41,4 @@ Contributions are welcome! Please feel free to fork this repository and submit a
 
 License:
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE.   
-
-
-Sources and related content
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
