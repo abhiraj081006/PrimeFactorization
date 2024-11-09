@@ -8,13 +8,11 @@ Clone the repository:
 
 Bash
 git clone https://github.com/abhiraj081006/PrimeFactorization.git
-Use code with caution.
 
 Run the script:
 
 Bash
 python prime_factorization.py
-Use code with caution.
 
 Enter a number:
 The script will prompt you to enter a number.
